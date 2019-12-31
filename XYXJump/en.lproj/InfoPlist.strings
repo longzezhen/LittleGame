@@ -1,0 +1,17 @@
+/* 
+  InfoPlist.strings
+  XYXJump
+
+  Created by df on 2019/12/24.
+  Copyright © 2019 cons. All rights reserved.
+*/
+"CFBundleDisplayName" = "Edward Escape";
+"CFBundleName"="Edward Escape";
+"NSCameraUsageDescription" = "If you don't allow it, you won't be able to take photos in the Clan Clash, and you won't be able to use sweeping, changing avatars, etc.";
+"NSPhotoLibraryAddUsageDescription" = "Whether to download to album";
+"NSPhotoLibraryUsageDescription" = "If you don't allow it, you won't be able to access the photos in the system album. Sending images, changing avatars, etc. will not work";
+"NSContactsUsageDescription"="Clan Clash will upload a mobile phone address book to the Clan Clash Server to match and recommend friends. The Clan Clash only uses signatures for matching identification and will not save your address book content.";
+"NSLocationWhenInUseUsageDescription"="You need to use your location information to facilitate your account registration, create a community, join a game, etc.";
+"NSMicrophoneUsageDescription"="If not allowed, you will no longer be able to send voice messages in the Clan Clash";
+"CFBundleDevelopmentRegion"="en_US";
+"CFBundleAllowMixedLocalizations"="1";

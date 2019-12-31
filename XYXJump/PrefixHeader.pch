@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  XYXJump
+//
+//  Created by df on 2019/11/5.
+//  Copyright © 2019 cons. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#ifdef __OBJC__
+
+#import "MBProgressHUD+ADD.h"
+#import "Macro.h"
+#import "UIImage+category.h"
+
+#endif
+
+
+#endif /* PrefixHeader_pch */
